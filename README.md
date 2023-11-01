@@ -1,5 +1,7 @@
 # Sentiment-Analysis-for-a-Movie-Review
 
+Developing a machine learning model to analyse the sentiment of a movie review texts.
+
 Description 
 
-In this dataset each record represents a movie-review pair with movie title, description, genres, duration, director, actors, users' ratings, review text, reviewer name, etc. Your task is to build an ML model to predict sentiment of the review text.
+In this dataset, each entry contains information about a movie, including its title, description, genres, duration, director, actors, user ratings, review text, reviewer name, and more. Your objective is to create a machine learning model that can determine the sentiment (positive, negative, or neutral) of the review text.
